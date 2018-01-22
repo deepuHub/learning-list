@@ -8,10 +8,10 @@
   rating: 4.5  
 - author: Andrew Ng @ Coursera Inc.
   title: "Machine Learning Week 2/11 - by Stanford University"
-  finished: 2016-11-19
+  finished: 2017-01-21
   rating: 5
   quotes:
     - page: "1"
       content: "Supervised Learning, Unsupervised Learning, Model Representation, Cost Function, Gradient Descent."
     - page: "2"
-      content: "MatLab, Multi variate Regression,"
+      content: "MatLab, Multi variate Regression, Feature normalization, Normal equations"
