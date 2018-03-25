@@ -14,4 +14,6 @@
     - page: "1"
       content: "Supervised Learning, Unsupervised Learning, Model Representation, Cost Function, Gradient Descent."
     - page: "2"
-      content: "MatLab, Multi variate Regression, Feature normalization, Normal equations"
+      content: "MatLab, Linear Regression, Multi variate Regression, Feature normalization, Normal equations."
+    - page: "3"
+      content: "Logistic Regression, Classiﬁcation,Decision	boundary Overfitting, Advanced Optmization, Multi‐class classiﬁcation, Underfitting, Regularization, Regularized logistic regression, Advanced optimization. Assignments - 1. you will build a logistic regression model to predict whether a student gets admitted into a university 2. you will implement regularized logistic regression to predict whether microchips from a fabrication plant passes quality assurance (QA)."
