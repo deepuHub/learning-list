@@ -7,8 +7,8 @@
   finished: 2016-09-26
   rating: 4.5  
 - author: Andrew Ng @ Coursera Inc.
-  title: "Machine Learning Week 4/11 - by Stanford University"
-  finished: 2018-03-24
+  title: "Machine Learning Week 5/11 - by Stanford University"
+  finished: 2018-07-22
   rating: 5
   quotes:
     - page: "1"
@@ -19,3 +19,5 @@
       content: "Welcome to week 3! This week, we’ll be covering logistic regression. Logistic regression is a method for classifying data into discrete outcomes. For example, we might use logistic regression to classify an email as spam or not spam. In this module, we introduce the notion of classification, the cost function for logistic regression, and the application of logistic regression to multi-class classification. We are also covering regularization. Machine learning models need to generalize well to new examples that the model has not seen in practice. We’ll introduce regularization, which helps prevent models from overfitting the training data. Logistic Regression, Classiﬁcation,Decision	boundary Overfitting, Advanced Optmization, Multi‐class classiﬁcation, Underfitting, Regularization, Regularized logistic regression, Advanced optimization. Assignments - 1. you will build a logistic regression model to predict whether a student gets admitted into a university 2. you will implement regularized logistic regression to predict whether microchips from a fabrication plant passes quality assurance (QA)."
     - page: "4"
       content: "Welcome to week 4! This week, we are covering neural networks. Neural networks is a model inspired by how the brain works. It is widely used today in many applications: when your phone interprets and understand your voice commands, it is likely that a neural network is helping to understand your speech; when you cash a check, the machines that automatically read the digits also use neural networks. In this exercise, you will implement one-vs-all logistic regression and neural networks to recognize hand-written digits."
+    - page: "5"
+      content: "In Week 5, you will be learning how to train Neural Networks. The Neural Network is one of the most powerful learning algorithms (when a linear classifier doesn't work, this is what I usually turn to), and this week's videos explain the 'backpropagation' algorithm for training these models. In this week's programming assignment, you'll also get to implement this algorithm and see it work for yourself. The Neural Network programming exercise will be one of the more challenging ones of this class. Cost function, Backpropagation algorithm, Implementationm note:Unrolling parameters, Gradient Checking, Random Initialization, eg: Autonomous driving."
