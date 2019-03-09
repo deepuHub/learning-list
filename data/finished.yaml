@@ -21,10 +21,10 @@
       content: "Welcome to week 4! This week, we are covering neural networks. Neural networks is a model inspired by how the brain works. It is widely used today in many applications: when your phone interprets and understand your voice commands, it is likely that a neural network is helping to understand your speech; when you cash a check, the machines that automatically read the digits also use neural networks. In this exercise, you will implement one-vs-all logistic regression and neural networks to recognize hand-written digits."
     - page: "5"
       content: "In Week 5, you will be learning how to train Neural Networks. The Neural Network is one of the most powerful learning algorithms (when a linear classifier doesn't work, this is what I usually turn to), and this week's videos explain the 'backpropagation' algorithm for training these models. In this week's programming assignment, you'll also get to implement this algorithm and see it work for yourself. The Neural Network programming exercise will be one of the more challenging ones of this class. Cost function, Backpropagation algorithm, Implementationm note:Unrolling parameters, Gradient Checking, Random Initialization, eg: Autonomous driving."
-- author: Andrew Ng @ Coursera Inc.
+- author: Andrew Ng @ Coursera Inc s.
   title: "AI For Everyone Week 1/4 - by deeplearning.ai"
   finished: 2019-03-08
   rating: 5
   quotes:
-  - page: "1" 
-    content: "According to a study by McKinsey Global Institute, AI is estimated to create an additional 13 trillion US dollars of value annually by the year 2030. Even though AI is already creating tremendous amounts of value into software industry, a lot of the value to be created in a future lies outside the software industry. In sectors such as retail, travel, transportation, automotive, materials, manufacturing and so on."
+    - page: "1" 
+      content: "According to a study by McKinsey Global Institute, AI is estimated to create an additional 13 trillion US dollars of value annually by the year 2030. Even though AI is already creating tremendous amounts of value into software industry, a lot of the value to be created in a future lies outside the software industry. In sectors such as retail, travel, transportation, automotive, materials, manufacturing and so on."
