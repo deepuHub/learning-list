@@ -22,8 +22,8 @@
     - page: "5"
       content: "In Week 5, you will be learning how to train Neural Networks. The Neural Network is one of the most powerful learning algorithms (when a linear classifier doesn't work, this is what I usually turn to), and this week's videos explain the 'backpropagation' algorithm for training these models. In this week's programming assignment, you'll also get to implement this algorithm and see it work for yourself. The Neural Network programming exercise will be one of the more challenging ones of this class. Cost function, Backpropagation algorithm, Implementationm note:Unrolling parameters, Gradient Checking, Random Initialization, eg: Autonomous driving."
 - author: Andrew Ng @ Coursera Inc.
-  title: "AI For Everyone Week 2/4 - by deeplearning.ai"
-  finished: 2019-03-24
+  title: "AI For Everyone Week 4/4 - by deeplearning.ai"
+  finished: 2019-04-25
   rating: 5
   quotes:
     - page: "1" 
